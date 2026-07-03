@@ -93,9 +93,6 @@ Pick a protocol with `--txt_root` and set the task/eval order with `--TASK_LIST`
 | **P2** | `protocol2_dataset_txt` | `T2V, I2V, V2V, SORA`  | Fake Incremental (AI-generated-video) stream (AIGVDBench) |
 | **P3** | `protocol3_dataset_txt` | `FF, DFDCP, DFD, CDF`  | Few Shot 4-dataset benchmark |
 
-```bash
-bash run_protocol1.sh   # or run_protocol2.sh / run_protocol3.sh
-```
 
 ---
 
