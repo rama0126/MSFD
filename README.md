@@ -87,11 +87,11 @@ Each split is a text file `protocolX_dataset_txt/<PREFIX>_{train,val}.txt`, **on
 
 Pick a protocol with `--txt_root` and set the task/eval order with `--TASK_LIST` / `--TEST_LIST`. After each task, the model is evaluated on **every** task in `TEST_LIST` (video-level AUC / EER) to measure retention.
 
-| Protocol | `--txt_root` | Tasks (`TASK_LIST` = `TEST_LIST`) | Script | Purpose |
+| Protocol | `--txt_root` | Tasks (`TASK_LIST` = `TEST_LIST`)  | Purpose |
 |---|---|---|---|---|
-| **P1** | `protocol1_dataset_txt` | `FF, DFD, CDF, DFDCP, FFIW, KoDF` | [`run_protocol1.sh`](run_protocol1.sh) | 6-dataset domain-incremental benchmark |
-| **P2** | `protocol2_dataset_txt` | `T2V, I2V, V2V, SORA` | [`run_protocol2.sh`](run_protocol2.sh) | AI-generated-video stream (AIGVDBench) |
-| **P3** | `protocol3_dataset_txt` | `FF, DFDCP, DFD, CDF` | [`run_protocol3.sh`](run_protocol3.sh) | Short 4-dataset benchmark |
+| **P1** | `protocol1_dataset_txt` | `FF, DFD, CDF, DFDCP, FFIW, KoDF` | 6-dataset domain-incremental benchmark |
+| **P2** | `protocol2_dataset_txt` | `T2V, I2V, V2V, SORA`  | Fake Incremental (AI-generated-video) stream (AIGVDBench) |
+| **P3** | `protocol3_dataset_txt` | `FF, DFDCP, DFD, CDF`  | Few Shot 4-dataset benchmark |
 
 ```bash
 bash run_protocol1.sh   # or run_protocol2.sh / run_protocol3.sh
