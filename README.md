@@ -68,7 +68,7 @@ This produces, per source video, a frame folder:
 At training/eval time [`datasets/dataset_clipv2.py`](datasets/dataset_clipv2.py) slices each folder into non-overlapping **32-frame clips** at **224×224** with ImageNet normalization (videos with `< 32` frames are skipped).
 
 **We have not preprocessed the AIGDVBench dataset.**
-
+ 
 ---
 ## Data layout & list format
 
