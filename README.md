@@ -8,7 +8,7 @@ Official repository of **"Preserving Knowledge across Space and Time for Continu
 ## Contents
 - [Installation](#installation)
 - [Datasets](#datasets)
-- [Preprocessing (FTCN-based face crop & align)](#preprocessing-ftcn-based-face-crop--align)
+- [Preprocessing ](#preprocessing)
 - [Data layout & list format](#data-layout--list-format)
 - [Continual protocols](#continual-protocols)
 - [Training](#training)
@@ -49,7 +49,7 @@ Download each source dataset from its official page and preprocess it as describ
 
 ---
 
-## Preprocessing (FTCN-based face crop & align)
+## Preprocessing
 
 We follow the face-processing pipeline of **FTCN** (*Exploring Temporal Coherence for More General Video Face Forgery Detection*, ICCV 2021 — https://github.com/yinglinzheng/FTCN). For every video we detect and **track** faces across frames, then **crop-and-align** each tracked face and dump the aligned face frames into a per-video folder. The FTCN tooling lives under [`preprocessing/`](preprocessing/) (`test_tools/`), and the driver is [`preprocessing/preprocess.py`](preprocessing/preprocess.py) (`FasterCropAlignXRay(256)` → aligned faces, saved as sequential frame images per video).
 
