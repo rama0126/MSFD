@@ -44,7 +44,8 @@ Download each source dataset from its official page and preprocess it as describ
 | `KoDF`  | KoDF | https://deepbrainai-research.github.io/kodf/ |
 | `AIGVDBench`* | AIGVDBench | https://huggingface.co/datasets/AIGVDBench/AIGVDBench |
 
-\* `DF40` supplies the extra manipulation-type tasks (`BF, FD, HR, MS, MCNET, ST`) and `AIGVDBench` supplies the AI-generated-video tasks (`T2V, I2V, V2V, SORA`). 
+\* `DF40` supplies the extra manipulation-type tasks (`BF, FD, HR, MS, MCNET, ST`).
+\* `AIGVDBench` supplies the AI-generated-video tasks (`T2V, I2V, V2V, SORA`). Use 'EasyAnimate', 'PyramidFlow', 'LTX', 'SORA'. 
 
 ---
 
