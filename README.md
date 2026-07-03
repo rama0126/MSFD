@@ -27,7 +27,6 @@ pip install torch==2.8.0 torchvision==0.23.0
 pip install -r requirements.txt
 ```
 
-`requirements.txt` is pinned to the reference `cdvd` environment.
 
 ---
 
@@ -98,7 +97,7 @@ Pick a protocol with `--txt_root` and set the task/eval order with `--TASK_LIST`
 
 ## Training
 
-Training is always distributed (DDP), launched via `torch.distributed.launch`. The provided [`run.sh`](run.sh) runs the default P1 order with the I3D-R50 backbone:
+Training is always distributed (DDP), launched via `torch.distributed.launch`. The provided [`run.sh`](run.sh) runs the default P1 order with the R3D18 backbone:
 
 ```bash
 bash run.sh
@@ -110,7 +109,7 @@ Or explicitly:
 python -m torch.distributed.launch --nproc_per_node=2 --master_port=10003 --use_env train.py \
     --world_size=2 \
     --model_name=msfd \
-    --architecture=torch_hub_i3d_r50 \
+    --architecture=torchvision_r3d_18 \
     --txt_root=./protocol1_dataset_txt \
     --TASK_LIST=FF,DFD,CDF,DFDCP,FFIW,KoDF \
     --TEST_LIST=FF,DFD,CDF,DFDCP,FFIW,KoDF \
@@ -121,7 +120,7 @@ python -m torch.distributed.launch --nproc_per_node=2 --master_port=10003 --use_
 Key arguments (see `get_args_parser` in [`train.py`](train.py)):
 
 - `--model_name` — method; `msfd` for the proposed model, `base` for plain fine-tuning.
-- `--architecture` — `torch_hub_i3d_r50` (default in `run.sh`) or `torchvision_r3d_18`.
+- `--architecture` — `torchvision_r3d_18` (default in `run.sh`).
 - `--memory_size` — replay-buffer size (default 200).
 - `--initial_epochs` / `--continual_epochs`, `--initial_lr` / `--continual_lr`, `--test_step_size`.
 
