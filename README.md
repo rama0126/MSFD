@@ -88,7 +88,7 @@ Each split is a text file `protocolX_dataset_txt/<PREFIX>_{train,val}.txt`, **on
 Pick a protocol with `--txt_root` and set the task/eval order with `--TASK_LIST` / `--TEST_LIST`. After each task, the model is evaluated on **every** task in `TEST_LIST` (video-level AUC / EER) to measure retention.
 
 | Protocol | `--txt_root` | Tasks (`TASK_LIST` = `TEST_LIST`)  | Purpose |
-|---|---|---|---|---|
+|---|---|---|---|
 | **P1** | `protocol1_dataset_txt` | `FF, DFD, CDF, DFDCP, FFIW, KoDF` | 6-dataset domain-incremental benchmark |
 | **P2** | `protocol2_dataset_txt` | `T2V, I2V, V2V, SORA`  | Fake Incremental (AI-generated-video) stream (AIGVDBench) |
 | **P3** | `protocol3_dataset_txt` | `FF, DFDCP, DFD, CDF`  | Few Shot 4-dataset benchmark |
