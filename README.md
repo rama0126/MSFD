@@ -2,7 +2,10 @@
 
 Official repository of **"Preserving Knowledge across Space and Time for Continual Video Deepfake Detection"**, ECCV 2026.
 
+
 🌐 [[Project Page]](https://rama0126.github.io/MSFD/)
+
+
 ---
 
 ## Contents
