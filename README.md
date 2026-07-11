@@ -5,6 +5,10 @@ Official repository of **"Preserving Knowledge across Space and Time for Continu
 
 🌐 [[Project Page]](https://rama0126.github.io/MSFD/)
 
+<img width="1001" height="378" alt="image" src="https://github.com/user-attachments/assets/ab0f29aa-cdb5-4dbd-8144-91a2c6168918" />
+
+## TL;DR
+MSFD helps a video deepfake detector learn new fake videos without forgetting old ones. It keeps spatial, temporal, and spatiotemporal cues separately.
 
 ---
 
