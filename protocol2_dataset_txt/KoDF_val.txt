@@ -125,7 +125,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_1110
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_0480
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_0430
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/170669_171823_3_1650
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/176036_166780_3_1350
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/169273_103564_3_1590
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_1500
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_0300
@@ -186,7 +186,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/177994_170719_3_0750
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_0110
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_1380
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/167818_167917_3_1380
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/42212_170962_3_1070
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/42212_170962_3_0320
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/176036_166780_3_0520
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_1860
@@ -198,7 +198,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173538_16370_3_1340
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_1490
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173299_34444_3_1740
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_1370
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_0870
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/175684_176023_3_1180
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/167818_167917_3_0300
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173538_16370_3_0730
@@ -215,7 +215,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173538_16370_3_0240
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/177994_170719_3_1790
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_0730
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_0460
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_0520
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/176036_166780_3_1140
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/16600_171224_3_1820
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/177681_176178_3_0510
@@ -238,7 +238,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_1520
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/177994_170719_3_1360
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173299_34444_3_0650
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/40031_40032_3_1360
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/167818_167917_3_0320
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/176023_175684_3_0890
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_1120
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/42212_170962_3_1500
@@ -272,7 +272,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/177681_176178_3_1250
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_1900
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_1570
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_0980
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_0290
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/35115_177508_3_0320
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173538_16370_3_0250
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_1470
@@ -373,7 +373,7 @@
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/177994_170719_3_1720
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173538_16370_3_1730
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/169273_103564_3_1070
-1,{ROOT}/KoDF/validation_all/fsgan/clip_32/16600_171224_3_0130
+1,{ROOT}/KoDF/validation_all/fsgan/clip_32/176023_175684_3_0700
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/181513_176023_3_0850
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/178664_176107_3_0230
 1,{ROOT}/KoDF/validation_all/fsgan/clip_32/173299_34444_3_0680
@@ -522,7 +522,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/177994_170719_1_0042
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/16600_171224_1_0460
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/40068_167494_1_0100
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/181513_176023_1_1400
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/178664_176107_1_0660
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/169273_103564_1_0280
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/169273_103564_1_0075
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_0480
@@ -596,7 +596,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/16600_171224_1_0500
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176176_176177_1_0360
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/181513_176023_1_1140
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_1300
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/176023_175684_1_0830
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/169273_103564_1_1500
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/177994_170719_1_0150
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/178664_176107_1_0330
@@ -651,7 +651,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/178664_176107_1_0470
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_1420
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/35115_177508_1_0800
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/16600_171224_1_0130
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/178664_176107_1_0720
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/177994_170719_1_0470
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/172625_173772_1_0390
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/177994_170719_1_1310
@@ -693,7 +693,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/175684_176023_1_0370
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173299_34444_1_0013
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173299_34444_1_0630
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/176023_175684_1_0300
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/172625_173772_1_0076
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173299_34444_1_0064
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/179137_176036_1_0880
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/40068_167494_1_0430
@@ -713,7 +713,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/35115_177508_1_0660
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/178664_176107_1_1280
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/177994_170719_1_1320
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_0380
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/175684_176023_1_0052
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176036_166780_1_1250
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/169273_103564_1_1000
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/179137_176036_1_0023
@@ -740,7 +740,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/172625_173772_1_0120
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173299_34444_1_1320
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/179137_176036_1_0026
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/176036_166780_1_1490
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/176176_176177_1_0460
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/181513_176023_1_0012
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176176_176177_1_0720
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173299_34444_1_0980
@@ -852,7 +852,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176176_176177_1_0041
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176036_166780_1_0880
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/181513_176023_1_0880
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/177681_176178_1_1380
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/16600_171224_1_0700
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176176_176177_1_0660
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176023_175684_1_0330
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/178664_176107_1_0056
@@ -910,7 +910,7 @@
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/177994_170719_1_0062
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/179137_176036_1_0084
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/176023_175684_1_0073
-1,{ROOT}/KoDF/validation_all/dfl/clip_32/176176_176177_1_0100
+1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_1490
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_0250
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/173538_16370_1_0890
 1,{ROOT}/KoDF/validation_all/dfl/clip_32/171036_113995_1_0870
@@ -1071,7 +1071,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0700
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0900
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0480
-1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_1330
+1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_1430
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_1470
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185310_185310_5_0290
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0015
@@ -1086,7 +1086,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_0190
 1,{ROOT}/KoDF/validation_all/audio/clip_32/179103_179103_5_0290
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0970
-1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_1030
+1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0350
 1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0032
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0570
 1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0024
@@ -1097,7 +1097,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0031
 1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_0990
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_0570
-1,{ROOT}/KoDF/validation_all/audio/clip_32/185310_185310_5_0110
+1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0074
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_1320
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_1350
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0090
@@ -1121,7 +1121,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0150
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0220
 1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_0360
-1,{ROOT}/KoDF/validation_all/audio/clip_32/186232_186232_5_0082
+1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0640
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0950
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0360
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0920
@@ -1173,11 +1173,11 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0032
 1,{ROOT}/KoDF/validation_all/audio/clip_32/186232_186232_5_0052
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0680
-1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_0075
+1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0960
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_1340
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0580
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_0960
-1,{ROOT}/KoDF/validation_all/audio/clip_32/186232_186232_5_0054
+1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0690
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_0330
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0130
 1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_0500
@@ -1215,7 +1215,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185310_185310_5_0330
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0500
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0075
-1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_1260
+1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0340
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_1230
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_1490
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_1260
@@ -1226,7 +1226,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0100
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0062
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0520
-1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_1490
+1,{ROOT}/KoDF/validation_all/audio/clip_32/186232_186232_5_0032
 1,{ROOT}/KoDF/validation_all/audio/clip_32/179103_179103_5_1060
 1,{ROOT}/KoDF/validation_all/audio/clip_32/169273_103564_5_0890
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0150
@@ -1248,7 +1248,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0620
 1,{ROOT}/KoDF/validation_all/audio/clip_32/179103_179103_5_1430
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0083
-1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0800
+1,{ROOT}/KoDF/validation_all/audio/clip_32/179103_179103_5_1000
 1,{ROOT}/KoDF/validation_all/audio/clip_32/138487_138487_5_0580
 1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_1290
 1,{ROOT}/KoDF/validation_all/audio/clip_32/186232_186232_5_1450
@@ -1393,7 +1393,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0130
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0170
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0076
-1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_1280
+1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0016
 1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_0061
 1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_0700
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0480
@@ -1406,7 +1406,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0250
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185310_185310_5_0500
 1,{ROOT}/KoDF/validation_all/audio/clip_32/184963_184963_5_0280
-1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0023
+1,{ROOT}/KoDF/validation_all/audio/clip_32/176253_176253_5_0610
 1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0370
 1,{ROOT}/KoDF/validation_all/audio/clip_32/187404_187404_5_0084
 1,{ROOT}/KoDF/validation_all/audio/clip_32/185310_185310_5_1210
@@ -1427,7 +1427,7 @@
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0610
 1,{ROOT}/KoDF/validation_all/audio/clip_32/41868_41868_5_0015
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0480
-1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0870
+1,{ROOT}/KoDF/validation_all/audio/clip_32/185793_185793_5_0940
 1,{ROOT}/KoDF/validation_all/audio/clip_32/186232_186232_5_1460
 1,{ROOT}/KoDF/validation_all/audio/clip_32/19095_19095_5_0550
 1,{ROOT}/KoDF/validation_all/audio/clip_32/173245_173245_5_0790
@@ -1503,10 +1503,10 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40068_135
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176023_056
 0,{ROOT}/KoDF/validation_all/origin/clip_32/41868_076
-0,{ROOT}/KoDF/validation_all/origin/clip_32/192697_031
+0,{ROOT}/KoDF/validation_all/origin/clip_32/172625_094
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176253_024
 0,{ROOT}/KoDF/validation_all/origin/clip_32/177994_052
-0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_144
+0,{ROOT}/KoDF/validation_all/origin/clip_32/181513_020
 0,{ROOT}/KoDF/validation_all/origin/clip_32/185793_094
 0,{ROOT}/KoDF/validation_all/origin/clip_32/179137_103
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_061
@@ -1514,13 +1514,13 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40068_049
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_017
 0,{ROOT}/KoDF/validation_all/origin/clip_32/35706_047
-0,{ROOT}/KoDF/validation_all/origin/clip_32/173299_069
+0,{ROOT}/KoDF/validation_all/origin/clip_32/173245_023
 0,{ROOT}/KoDF/validation_all/origin/clip_32/186232_123
 0,{ROOT}/KoDF/validation_all/origin/clip_32/138487_138
 0,{ROOT}/KoDF/validation_all/origin/clip_32/184963_107
 0,{ROOT}/KoDF/validation_all/origin/clip_32/41868_074
 0,{ROOT}/KoDF/validation_all/origin/clip_32/179103_114
-0,{ROOT}/KoDF/validation_all/origin/clip_32/173299_145
+0,{ROOT}/KoDF/validation_all/origin/clip_32/4ed3e16b119ac4685914_174
 0,{ROOT}/KoDF/validation_all/origin/clip_32/184963_141
 0,{ROOT}/KoDF/validation_all/origin/clip_32/170669_031
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176023_067
@@ -1545,11 +1545,11 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/185310_077
 0,{ROOT}/KoDF/validation_all/origin/clip_32/179103_048
 0,{ROOT}/KoDF/validation_all/origin/clip_32/178664_098
-0,{ROOT}/KoDF/validation_all/origin/clip_32/178664_106
+0,{ROOT}/KoDF/validation_all/origin/clip_32/173538_078
 0,{ROOT}/KoDF/validation_all/origin/clip_32/179137_095
 0,{ROOT}/KoDF/validation_all/origin/clip_32/181513_017
 0,{ROOT}/KoDF/validation_all/origin/clip_32/19095_091
-0,{ROOT}/KoDF/validation_all/origin/clip_32/176253_037
+0,{ROOT}/KoDF/validation_all/origin/clip_32/40031_106
 0,{ROOT}/KoDF/validation_all/origin/clip_32/167818_087
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40031_084
 0,{ROOT}/KoDF/validation_all/origin/clip_32/16600_020
@@ -1568,7 +1568,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/42212_096
 0,{ROOT}/KoDF/validation_all/origin/clip_32/16600_118
 0,{ROOT}/KoDF/validation_all/origin/clip_32/187404_073
-0,{ROOT}/KoDF/validation_all/origin/clip_32/171036_003
+0,{ROOT}/KoDF/validation_all/origin/clip_32/179137_081
 0,{ROOT}/KoDF/validation_all/origin/clip_32/138487_021
 0,{ROOT}/KoDF/validation_all/origin/clip_32/188264_096
 0,{ROOT}/KoDF/validation_all/origin/clip_32/187404_086
@@ -1594,10 +1594,10 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/188276_093
 0,{ROOT}/KoDF/validation_all/origin/clip_32/35115_045
 0,{ROOT}/KoDF/validation_all/origin/clip_32/41868_062
-0,{ROOT}/KoDF/validation_all/origin/clip_32/35706_046
+0,{ROOT}/KoDF/validation_all/origin/clip_32/170669_067
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176253_067
-0,{ROOT}/KoDF/validation_all/origin/clip_32/35115_003
-0,{ROOT}/KoDF/validation_all/origin/clip_32/19095_071
+0,{ROOT}/KoDF/validation_all/origin/clip_32/186232_072
+0,{ROOT}/KoDF/validation_all/origin/clip_32/184963_071
 0,{ROOT}/KoDF/validation_all/origin/clip_32/175684_074
 0,{ROOT}/KoDF/validation_all/origin/clip_32/38351_024
 0,{ROOT}/KoDF/validation_all/origin/clip_32/192697_033
@@ -1609,7 +1609,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/19095_035
 0,{ROOT}/KoDF/validation_all/origin/clip_32/173245_024
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176023_109
-0,{ROOT}/KoDF/validation_all/origin/clip_32/179103_003
+0,{ROOT}/KoDF/validation_all/origin/clip_32/170669_076
 0,{ROOT}/KoDF/validation_all/origin/clip_32/173538_133
 0,{ROOT}/KoDF/validation_all/origin/clip_32/169273_133
 0,{ROOT}/KoDF/validation_all/origin/clip_32/177994_043
@@ -1645,7 +1645,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/167818_141
 0,{ROOT}/KoDF/validation_all/origin/clip_32/177681_104
 0,{ROOT}/KoDF/validation_all/origin/clip_32/179137_135
-0,{ROOT}/KoDF/validation_all/origin/clip_32/188595_072
+0,{ROOT}/KoDF/validation_all/origin/clip_32/35115_138
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40031_129
 0,{ROOT}/KoDF/validation_all/origin/clip_32/175684_053
 0,{ROOT}/KoDF/validation_all/origin/clip_32/171036_112
@@ -1729,8 +1729,8 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/41868_032
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40031_091
 0,{ROOT}/KoDF/validation_all/origin/clip_32/186232_075
-0,{ROOT}/KoDF/validation_all/origin/clip_32/172625_126
-0,{ROOT}/KoDF/validation_all/origin/clip_32/188276_001
+0,{ROOT}/KoDF/validation_all/origin/clip_32/173299_058
+0,{ROOT}/KoDF/validation_all/origin/clip_32/179103_050
 0,{ROOT}/KoDF/validation_all/origin/clip_32/185793_082
 0,{ROOT}/KoDF/validation_all/origin/clip_32/177681_078
 0,{ROOT}/KoDF/validation_all/origin/clip_32/35706_126
@@ -1778,7 +1778,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/187404_115
 0,{ROOT}/KoDF/validation_all/origin/clip_32/172625_038
 0,{ROOT}/KoDF/validation_all/origin/clip_32/38351_109
-0,{ROOT}/KoDF/validation_all/origin/clip_32/169273_042
+0,{ROOT}/KoDF/validation_all/origin/clip_32/178664_069
 0,{ROOT}/KoDF/validation_all/origin/clip_32/181513_112
 0,{ROOT}/KoDF/validation_all/origin/clip_32/35706_080
 0,{ROOT}/KoDF/validation_all/origin/clip_32/186232_103
@@ -1819,14 +1819,14 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40068_103
 0,{ROOT}/KoDF/validation_all/origin/clip_32/41868_064
 0,{ROOT}/KoDF/validation_all/origin/clip_32/42212_017
-0,{ROOT}/KoDF/validation_all/origin/clip_32/42212_004
+0,{ROOT}/KoDF/validation_all/origin/clip_32/35706_147
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40031_080
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176023_043
 0,{ROOT}/KoDF/validation_all/origin/clip_32/184963_008
 0,{ROOT}/KoDF/validation_all/origin/clip_32/188595_073
 0,{ROOT}/KoDF/validation_all/origin/clip_32/185793_119
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40068_129
-0,{ROOT}/KoDF/validation_all/origin/clip_32/16600_146
+0,{ROOT}/KoDF/validation_all/origin/clip_32/173538_096
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40068_028
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40031_023
 0,{ROOT}/KoDF/validation_all/origin/clip_32/35706_073
@@ -1896,7 +1896,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/185310_133
 0,{ROOT}/KoDF/validation_all/origin/clip_32/40068_070
 0,{ROOT}/KoDF/validation_all/origin/clip_32/171036_066
-0,{ROOT}/KoDF/validation_all/origin/clip_32/179137_040
+0,{ROOT}/KoDF/validation_all/origin/clip_32/16600_002
 0,{ROOT}/KoDF/validation_all/origin/clip_32/138487_027
 0,{ROOT}/KoDF/validation_all/origin/clip_32/177994_136
 0,{ROOT}/KoDF/validation_all/origin/clip_32/173245_061
@@ -1905,7 +1905,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/169273_028
 0,{ROOT}/KoDF/validation_all/origin/clip_32/38351_138
 0,{ROOT}/KoDF/validation_all/origin/clip_32/138487_008
-0,{ROOT}/KoDF/validation_all/origin/clip_32/176023_034
+0,{ROOT}/KoDF/validation_all/origin/clip_32/173245_054
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_096
 0,{ROOT}/KoDF/validation_all/origin/clip_32/170669_020
 0,{ROOT}/KoDF/validation_all/origin/clip_32/173299_089
@@ -1962,7 +1962,7 @@
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_036
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_074
 0,{ROOT}/KoDF/validation_all/origin/clip_32/181513_001
-0,{ROOT}/KoDF/validation_all/origin/clip_32/175684_080
+0,{ROOT}/KoDF/validation_all/origin/clip_32/171036_016
 0,{ROOT}/KoDF/validation_all/origin/clip_32/172625_004
 0,{ROOT}/KoDF/validation_all/origin/clip_32/176176_089
 0,{ROOT}/KoDF/validation_all/origin/clip_32/188276_080
@@ -2247,7 +2247,7 @@
 1,{ROOT}/KoDF/validation_all/fo/clip_32/40031_40032_4_0900
 1,{ROOT}/KoDF/validation_all/fo/clip_32/181513_176023_4_0033
 1,{ROOT}/KoDF/validation_all/fo/clip_32/169273_103564_4_1080
-1,{ROOT}/KoDF/validation_all/fo/clip_32/184963_184963_4_0063
+1,{ROOT}/KoDF/validation_all/fo/clip_32/184963_184963_4_1340
 1,{ROOT}/KoDF/validation_all/fo/clip_32/176253_176253_4_0180
 1,{ROOT}/KoDF/validation_all/fo/clip_32/170669_171823_4_0021
 1,{ROOT}/KoDF/validation_all/fo/clip_32/172625_173772_4_1340
@@ -2270,7 +2270,7 @@
 1,{ROOT}/KoDF/validation_all/fo/clip_32/41868_41868_4_1080
 1,{ROOT}/KoDF/validation_all/fo/clip_32/178664_176107_4_1390
 1,{ROOT}/KoDF/validation_all/fo/clip_32/35706_170952_4_0073
-1,{ROOT}/KoDF/validation_all/fo/clip_32/187404_187404_4_0860
+1,{ROOT}/KoDF/validation_all/fo/clip_32/176253_176253_4_0350
 1,{ROOT}/KoDF/validation_all/fo/clip_32/186232_186232_4_1260
 1,{ROOT}/KoDF/validation_all/fo/clip_32/173538_16370_4_0051
 1,{ROOT}/KoDF/validation_all/fo/clip_32/19095_19095_4_0440
@@ -2287,7 +2287,7 @@
 1,{ROOT}/KoDF/validation_all/fo/clip_32/138487_138487_4_0084
 1,{ROOT}/KoDF/validation_all/fo/clip_32/19095_19095_4_0014
 1,{ROOT}/KoDF/validation_all/fo/clip_32/178664_176107_4_0280
-1,{ROOT}/KoDF/validation_all/fo/clip_32/185793_185793_4_1070
+1,{ROOT}/KoDF/validation_all/fo/clip_32/179103_179103_4_0370
 1,{ROOT}/KoDF/validation_all/fo/clip_32/181513_176023_4_1410
 1,{ROOT}/KoDF/validation_all/fo/clip_32/186232_186232_4_0066
 1,{ROOT}/KoDF/validation_all/fo/clip_32/171036_113995_4_0460
@@ -2495,7 +2495,7 @@
 1,{ROOT}/KoDF/validation_all/fo/clip_32/181513_176023_4_0061
 1,{ROOT}/KoDF/validation_all/fo/clip_32/179137_176036_4_0120
 1,{ROOT}/KoDF/validation_all/fo/clip_32/19095_19095_4_0880
-1,{ROOT}/KoDF/validation_all/fo/clip_32/177994_170719_4_0041
+1,{ROOT}/KoDF/validation_all/fo/clip_32/176253_176253_4_0370
 1,{ROOT}/KoDF/validation_all/fo/clip_32/175684_176023_4_0120
 1,{ROOT}/KoDF/validation_all/fo/clip_32/171036_113995_4_1030
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/171036_113995_2_0090
@@ -2592,7 +2592,7 @@
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/16600_171224_2_1490
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/177681_176178_2_0085
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176023_175684_2_0073
-1,{ROOT}/KoDF/validation_all/dffs/clip_32/181513_176023_2_1440
+1,{ROOT}/KoDF/validation_all/dffs/clip_32/176036_166780_2_0650
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/16600_171224_2_0061
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/35706_170952_2_1070
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/171036_113995_2_1380
@@ -2613,7 +2613,7 @@
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/175684_176023_2_1360
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/181513_176023_2_0990
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176036_166780_2_0790
-1,{ROOT}/KoDF/validation_all/dffs/clip_32/173299_34444_2_1020
+1,{ROOT}/KoDF/validation_all/dffs/clip_32/177994_170719_2_1070
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/40031_40032_2_0053
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176176_176177_2_0015
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/16600_171224_2_0022
@@ -2657,7 +2657,7 @@
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/181513_176023_2_0560
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176023_175684_2_0056
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/175684_176023_2_0630
-1,{ROOT}/KoDF/validation_all/dffs/clip_32/16600_171224_2_0065
+1,{ROOT}/KoDF/validation_all/dffs/clip_32/177681_176178_2_0790
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176023_175684_2_0280
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/35706_170952_2_1330
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/40031_40032_2_1370
@@ -2723,7 +2723,7 @@
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/181513_176023_2_1390
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/171036_113995_2_0410
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/173299_34444_2_0510
-1,{ROOT}/KoDF/validation_all/dffs/clip_32/179137_176036_2_1300
+1,{ROOT}/KoDF/validation_all/dffs/clip_32/16600_171224_2_0360
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/173538_16370_2_0540
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/16600_171224_2_0100
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/40031_40032_2_0940
@@ -2783,7 +2783,7 @@
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176036_166780_2_1280
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176036_166780_2_0100
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/178664_176107_2_0970
-1,{ROOT}/KoDF/validation_all/dffs/clip_32/177994_170719_2_0600
+1,{ROOT}/KoDF/validation_all/dffs/clip_32/40031_40032_2_0610
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176036_166780_2_0090
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/175684_176023_2_0770
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/171036_113995_2_0170
@@ -2855,7 +2855,7 @@
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/171036_113995_2_0570
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/175684_176023_2_1280
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176036_166780_2_0015
-1,{ROOT}/KoDF/validation_all/dffs/clip_32/40031_40032_2_1200
+1,{ROOT}/KoDF/validation_all/dffs/clip_32/42212_170962_2_0150
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/176023_175684_2_0081
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/175684_176023_2_0970
 1,{ROOT}/KoDF/validation_all/dffs/clip_32/171036_113995_2_1330
